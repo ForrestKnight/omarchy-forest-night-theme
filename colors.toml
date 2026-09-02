@@ -1,0 +1,34 @@
+# Forest Night — Ethereal
+# https://github.com/ForrestKnight/omarchy-forest-night-theme
+
+mode = "dark"
+
+accent = "#8FBC8F"
+selection = "#3a4a55"
+muted = "#4a5568"
+
+background = "#1a2125"
+dark_background = "#14191c"
+darker_background = "#0d1113"
+lighter_background = "#222a30"
+
+foreground = "#c9d1d9"
+dark_foreground = "#6b7280"
+light_foreground = "#a8b3bd"
+bright_foreground = "#ffffff"
+
+red = "#E91E63"
+yellow = "#F39C12"
+orange = "#E67E22"
+green = "#8FBC8F"
+cyan = "#4ECDC4"
+blue = "#4ECDC4"
+magenta = "#9B59B6"
+brown = "#734011"
+
+bright_red = "#c78a7a"
+bright_yellow = "#FFB74D"
+bright_green = "#8FBC8F"
+bright_cyan = "#66D9EF"
+bright_blue = "#66D9EF"
+bright_magenta = "#9B59B6"
